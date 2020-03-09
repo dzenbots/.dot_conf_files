@@ -5,13 +5,8 @@ Configurations for tmux, vim, and some vasic interesting utils
 
 Firstly install required packages using apt or HomeBrew
 
-## List of packages
-zsh
-oh-my-zsh
-vim
-tmux
-mc
-htop
-
-
+## For macOS
+```
+brew install mc htop vim tmux
+```
 
