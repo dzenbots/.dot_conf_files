@@ -8,5 +8,5 @@ brew install vim
 
 ## Step 2: Install VundleVim for furter installation plugins
 ```
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.dot_conf_files/.vim/bundle/Vundle.vim
 ```
