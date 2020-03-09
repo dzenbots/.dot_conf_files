@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/vitaliy/.oh-my-zsh"
+export ZSH="~/.dot_conf_files/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -94,12 +94,11 @@ PROMPT="$fg[green]%}$USER@%{$fg[green]%}%m ${PROMPT}"
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-export VIRTUAL_MACHINE_I=P"192.168.10.25"
 
- alias zshconfig="vim ~/.zshrc"
- alias ohmyzsh="vim ~/.oh-my-zsh"
+ alias zshconfig="vim ~/.dot_conf_files/.zshrc"
+ alias ohmyzsh="vim ~/.dot_conf_files/.oh-my-zsh"
  alias cls="clear"
- alias new_tmux="~/.tmux/start_new_session.sh"
+ alias new_tmux="~/.dot_conf_files/.tmux/start_new_session.sh"
  alias ssh668SRV="ssh -i ~/.ssh/my_key dzenbots@172.16.128.47 -p 2222"
  alias sshvirtual="ssh -i ~/.ssh/my_key vitaliy@$VIRTUAL_MACHINE_IP -p 2222"
  alias tn="tmux new -s "
@@ -109,4 +108,4 @@ export VIRTUAL_MACHINE_I=P"192.168.10.25"
 git
 docker
 zsh-autosuggestions)
-source /Users/vitaliy/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
