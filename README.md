@@ -6,5 +6,7 @@ Configurations for tmux, vim, and some vasic interesting utils
 Firstly install required packages using apt or HomeBrew
 
 ## For macOS
-[Installing HomeBrew](./homebrew/homebrew_install.md)
-
+Step 1: [Install HomeBrew](./homebrew/homebrew_install.md)
+Step 2: [Install Vim](./vim/vim_install.md)
+Step 3: [Install Tmux](./)
+Step 4: [Install ZSH](./)
