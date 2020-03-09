@@ -3,7 +3,8 @@ Configurations for tmux, vim, and some vasic interesting utils
 
 # Requirements
 
-Firstly install required packages using apt or HomeBrew
+Firstly install required packages using apt or HomeBrew.
+Before installation clone this repository to your home repository.
 
 ## For macOS
 
