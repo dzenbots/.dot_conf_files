@@ -2,5 +2,5 @@
 
 ```
 brew install zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.dot_conf_files/.oh-my-zsh
 ```
