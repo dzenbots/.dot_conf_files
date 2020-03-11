@@ -8,10 +8,18 @@ Before installation clone this repository to your home repository.
 
 ## For macOS
 
-Step 1: [Install HomeBrew](./homebrew)
+Step 1: [Install HomeBrew](./macos/homebrew)
 
-Step 2: [Install Vim](./vim)
+Step 2: [Install Vim](./macos/vim)
 
-Step 3: [Install Tmux](./tmux)
+Step 3: [Install Tmux](./macos/tmux)
 
-Step 4: [Install ZSH](./zsh)
+Step 4: [Install ZSH](./macos/zsh)
+
+## For Ubuntu, Debian etc.
+
+Step 1: [Install Vim](./debian/vim)
+
+Step 2: [Install Tmux](./debian/tmux)
+
+Step 3: [Install ZSH](./debian/zsh)
